@@ -1,0 +1,22 @@
+Software files list:
+
+a:Visual Studio Code
+b:React
+c:Nodejs
+d:Postman
+
+1:Install Visual Studio Code
+
+ https://code.visualstudio.com/download
+
+2:Install React
+
+ npm create-react-app my-app
+
+3:Install Nodejs
+
+ https://nodejs.org/en/download/
+
+4:Install Postman
+
+ https://www.postman.com/downloads/
